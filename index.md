@@ -1,91 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel Procházka's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Procházka
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="danielprochazka097@gmail.com">danielprochazka097@gmail.com</a>
+| <a href="https://www.linkedin.com/in/daniel-procházka-450a5722a/">My LinkedIn page</a>
 </div>
 
+## About me
+Dear 
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at Czech University of Life Sciences Prague
 
-### Specialized in
+### Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Communication                   Problem solving
+GIT                             Python				
+SQL                             Adobe Photoshop
+Autodesk AutoCAD                Computer Skills
+Ability to Work in a Team       Wordpress 
+Microsoft Office				Manually skilled
+Learning new skills 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2019`
+__Akademie práva, pedagogiky a podnikání, s.r.o., Třebíč, CZ
+Graduation (September 2017 – September 2019)
+•	Graduation from Business with focus on home design (extension study).__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`September 2019 - now`
+__Czech University of Life Sciences Prague, CZ
+Bachelor (September 2019 – May 2023)
+•	Currently I study 3rd year of Wood Processing at Czech University of Life Sciences Faculty of Forestry and Wood Sciences.__
 
 
+## Languages
+Czech (Native Speaker, C2)
+English (Highly proficient, C1)
+Slovak (Highly proficient, C1) 
+	
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Other Organizations
 
 
-## Occupation
+[B.E.S.T. Prague](https://bestprague.cz/)(Student organization, 2019 – present)
+    Creating, organizing and leading projects and events such as EBEC, UnIT, Hackday.
+    Learned variety of soft skills such as presentation, communication, leadership, working in team.
 
-`1600`
-__Royal Mint__, London
+Klub Čajovna (Student organization, 2020 – present)
+    Guidance of newcomers and sharing knowledge in tea and hookah traditions with guests and other members.
+    Organizing festival called Dýmky na Kopci.
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Hobbies
+Chess, Cycling, Boulder, Computer Games, Squash, Swimming
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2022 -->
 
 
