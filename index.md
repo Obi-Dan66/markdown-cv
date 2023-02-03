@@ -16,7 +16,7 @@ Dear
 
 Student at Czech University of Life Sciences Prague
 
-### Skills 
+## Skills 
 SQL (Junior) --- Python (Junior)<br>	
 GIT --- Microsoft Office<br> 
 Autodesk AutoCAD (Medior) --- Wordpress<br>
