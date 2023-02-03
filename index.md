@@ -10,6 +10,9 @@ title: Daniel Procházka's CV
     | <a href="+420 601 570 677">+420 601 570 677 </a>
 </div>
 
+<!--https://files.fm/u/ejmtmwsf9#/view/gp6hyd44h>  my photo -->
+<img src="https://files.fm/u/ejmtmwsf9#/view/gp6hyd44h>" >
+
 ## About me
 Dear 
 
@@ -41,8 +44,7 @@ Ability to Work in a Team --- Learning new skills<br>
 
 ## Languages
 Czech (Native Speaker, C2)<br> 
-English (Highly proficient, C1)<br> 
-Slovak (Highly proficient, C1)<br> 
+English (Highly proficient, C1)<br>
 	
 
 ## Other Organizations
@@ -57,7 +59,7 @@ Slovak (Highly proficient, C1)<br>
     Organizing festival called Dýmky na Kopci.
 
 
-### Hobbies
+## Hobbies
 Chess, Cycling, Boulder, Computer Games, Squash, Swimming
 
 
