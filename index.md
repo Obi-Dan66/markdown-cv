@@ -11,10 +11,10 @@ title: Daniel Procházka's CV
 </div>
 
 <!--https://files.fm/u/ejmtmwsf9#/view/gp6hyd44h>  my photo -->
-<img src=""C:\Users\danie\Downloads\Dan CV web.jpg"">
+<img src="https://imgur.com/4gXlZIn">
 
 ## About me
-Dear 
+Hello, my name is Daniel and i am 
 
 ## Currently
 
@@ -33,7 +33,7 @@ Ability to Work in a Team --- Learning new skills<br>
 ## Education
 
 `2017-2019`
-<i>Akademie práva, pedagogiky a podnikání, s.r.o., Třebíč, CZ
+<i>Academy of law, pedagogy and business, Ltd., Třebíč, CZ
 <i>Graduation (September 2017 – September 2019)<br> 
 <i>•	Graduation from Business with focus on home design (extension study).
 
@@ -61,9 +61,6 @@ English (Highly proficient, C1)<br>
 
 ## Hobbies
 Chess, Cycling, Boulder, Computer Games, Squash, Swimming
-<p>
-<p>
-<p>
 
 
 <!-- ### Footer
