@@ -17,12 +17,12 @@ Dear
 Student at Czech University of Life Sciences Prague
 
 ### Skills
-Communication                   Problem solving<br> 
-GIT                             Python<br> 		
-SQL                             Adobe Photoshop<br> 
-Autodesk AutoCAD                Computer Skills<br> 
-Ability to Work in a Team       Wordpress<br> 
-Microsoft Office				Manually skilled<br> 
+Communication &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Problem solving<br> 
+GIT &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Python<br> 		
+SQL &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Adobe Photoshop<br> 
+Autodesk AutoCAD &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Computer Skills<br> 
+Ability to Work in a Team &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Wordpress<br> 
+Microsoft Office &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Manually skilled<br> 
 Learning new skills 
 
 
