@@ -16,27 +16,27 @@ Dear
 
 Student at Czech University of Life Sciences Prague
 
-### Skills
-Communication &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Problem solving<br> 
-GIT &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Python<br> 		
-SQL &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Adobe Photoshop<br> 
-Autodesk AutoCAD &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Computer Skills<br> 
-Ability to Work in a Team &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Wordpress<br> 
-Microsoft Office &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Manually skilled<br> 
-Learning new skills 
+### Skills 
+SQL (Junior) --- Python (Junior)<br>	
+GIT --- Microsoft Office<br> 
+Autodesk AutoCAD (Medior) --- Wordpress<br>
+Adobe Photoshop --- Manually skilled<br>
+Communication --- Problem solving<br> 
+Ability to Work in a Team --- Learning new skills<br> 
+
 
 
 ## Education
 
 `2017-2019`
-__Akademie práva, pedagogiky a podnikání, s.r.o., Třebíč, CZ
-Graduation (September 2017 – September 2019)<br> 
-•	Graduation from Business with focus on home design (extension study).__
+<i>__Akademie práva, pedagogiky a podnikání, s.r.o., Třebíč, CZ
+<i>Graduation (September 2017 – September 2019)<br> 
+<i>•	Graduation from Business with focus on home design (extension study).__
 
 `September 2019 - now`
-__Czech University of Life Sciences Prague, CZ
-Bachelor (September 2019 – May 2023)<br> 
-•	Currently I study 3rd year of Wood Processing at Czech University of Life Sciences Faculty of Forestry and Wood Sciences.__
+<i>__Czech University of Life Sciences Prague, CZ
+<i>Bachelor (September 2019 – May 2023)<br> 
+<i>•	Currently I study 3rd year of Wood Processing at Czech University of Life Sciences Faculty of Forestry and Wood Sciences.__
 
 
 ## Languages
