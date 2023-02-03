@@ -18,13 +18,13 @@ Student at Czech University of Life Sciences Prague
 
 ### Skills
 
-<p>Communication                   Problem solving<p>
-<p>GIT                             Python<p>			
-<p>SQL                             Adobe Photoshop<p>
-<p>Autodesk AutoCAD                Computer Skills<p>
-<p>Ability to Work in a Team       Wordpress<p> 
-<p>Microsoft Office				   Manually skilled<p>
-<p>Learning new skills 
+Communication                   Problem solving
+GIT                             Python				
+SQL                             Adobe Photoshop
+Autodesk AutoCAD                Computer Skills
+Ability to Work in a Team       Wordpress 
+Microsoft Office				Manually skilled
+Learning new skills 
 
 
 ## Education
