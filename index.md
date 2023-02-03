@@ -11,7 +11,7 @@ title: Daniel Procházka's CV
 </div>
 
 <!--https://files.fm/u/ejmtmwsf9#/view/gp6hyd44h>  my photo -->
-<img src="https://files.fm/f/gp6hyd44h">
+<img src=""C:\Users\danie\Downloads\Dan CV web.jpg"">
 
 ## About me
 Dear 
