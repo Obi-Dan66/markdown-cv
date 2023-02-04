@@ -10,34 +10,15 @@ title: Daniel Procházka's CV
     | <a href="+420 601 570 677">+420 601 570 677 </a>
 </div>
 
-<!--images\Dan CV web.jpg  my photo -->
 <img src="images\Dan CV web.jpg" align="right">
 
-<!--<!DOCTYPE html>
-<html>
- 
-<head>
-    <title>
-        HTML img align Attribute
-    </title>
-</head>
- 
-<body>
-    <h1>Dan CV web</h1>
-    <img src=
-        "images\Dan CV web.jpg"
-        alt="Daniel Procházka"
-            align="right"> 
-</body>
-</html>
--->
 ## About me
 <i>Dear Hiring Manager, <br>
 <br>
 <i>my name is Daniel. I am a highly motivated individual with a strong passion <br>
 <i>for technology and a commitment to continuous learning and growth. <br>
 <i>I am confident in my abilities to bring value to your organization <br>
-<i>with my skills in SQL (Junior), Python (Junior), GIT, and Microsoft Office <br>.
+<i>with my skills in SQL (Junior), Python (Junior), GIT, and Microsoft Office. <br>
 <i>I have a solid understanding of database management and programming concepts,<br> 
 <i>and I am eager to apply my knowledge to tackle complex problems and contribute <br>
 <i>to the success of your team.
