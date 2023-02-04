@@ -14,7 +14,8 @@ title: Daniel Procházka's CV
 <img src="C:\Users\danie\markdown-cv\Dan CV web.jpg">
 
 ## About me
-<i>Dear Hiring Manager,<p>
+<i>Dear Hiring Manager, <br>
+<br>
 <i>my name is Daniel. I am a highly motivated individual with a strong <i>passion for technology and a commitment to continuous learning and growth.
 <i>I am confident in my abilities to bring value to your organization with <i>my skills in SQL (Junior), Python (Junior), GIT, and Microsoft Office. I <i>have a solid understanding of database management and programming <i>concepts, and I am eager to apply my knowledge to tackle complex <i>problems and contribute to the success of your team.
 
