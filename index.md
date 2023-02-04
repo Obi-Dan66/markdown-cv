@@ -36,6 +36,7 @@ Adobe Photoshop --- Manually skilled<br>
 Communication --- Problem solving<br> 
 Ability to Work in a Team --- Learning new skills<br> 
 
+## Projects
 
 
 ## Education
