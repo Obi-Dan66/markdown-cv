@@ -10,9 +10,27 @@ title: Daniel Procházka's CV
     | <a href="+420 601 570 677">+420 601 570 677 </a>
 </div>
 
-<!--https://files.fm/u/ejmtmwsf9#/view/gp6hyd44h>  my photo -->
-<img src="images\Dan CV web.jpg" >
+<!--images\Dan CV web.jpg  my photo -->
+<img src="images\Dan CV web.jpg" align="right">
 
+<!--<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title>
+        HTML img align Attribute
+    </title>
+</head>
+ 
+<body>
+    <h1>Dan CV web</h1>
+    <img src=
+        "images\Dan CV web.jpg"
+        alt="Daniel Procházka"
+            align="right"> 
+</body>
+</html>
+-->
 ## About me
 <i>Dear Hiring Manager, <br>
 <br>
