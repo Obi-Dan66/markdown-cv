@@ -29,12 +29,12 @@ title: Daniel Procházka's CV
 Student at Czech University of Life Sciences Prague
 
 ## Skills 
-SQL (Junior) --- Python (Junior)<br>	
-GIT --- Microsoft Office<br> 
-Autodesk AutoCAD (Medior) --- Wordpress<br>
-Adobe Photoshop --- Manually skilled<br>
-Communication --- Problem solving<br> 
-Ability to Work in a Team --- Learning new skills<br> 
+SQL (Junior), Python (Junior)<br>	
+GIT, Microsoft Office<br> 
+Autodesk AutoCAD (Medior), Wordpress<br>
+Adobe Photoshop, Manually skilled<br>
+Communication, Problem solving<br> 
+Ability to Work in a Team, Learning new skills<br> 
 
 ## Projects
 
