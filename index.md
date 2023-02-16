@@ -10,7 +10,7 @@ danielprochazka097@gmail.com
     | +420 601 570 677
 </div>
 
-<img src="images\Dan CV web.jpg" align="right" valign="top">
+<img src="images\Dan CV web.jpg" td align="right" valign="top">
 
 > ## About me
 
@@ -40,11 +40,11 @@ Ability to Work in a Team, Presenting in English
 > ## Education
 
 `2017-2019`
-Academy of law, pedagogy and business, Ltd., Třebíč, CZ
+Academy of law, pedagogy and business, Ltd., Třebíč, CZ\
 Graduation (September 2017 – September 2019)
 
 `September 2019 - now`
-Czech University of Life Sciences Prague, CZ
+Czech University of Life Sciences Prague, CZ\
 Bachelor (September 2019 – May 2023)
 
 > ## Languages
@@ -54,14 +54,13 @@ English (Highly proficient, C1)
 > ## Other Organizations
 
 [B.E.S.T. Prague](https://bestprague.cz/)(Student organization, 2019 – present)\
-    Creating, organizing and leading projects and events\
-    such as EBEC, UnIT, Hackday.\
-    Learned variety of soft skills such as presentation,\
-    communication, leadership, working in team.
+    Creating, organizing and leading projects and events such as EBEC, UnIT, Hackday.\
+    Learned variety of soft skills such as presentation, communication, leadership and\
+    working in team.
 
 [Klub Čajovna](https://www.facebook.com/KlubCajovna)(Student organization, 2020 – present)\
-    Guidance of newcomers and sharing knowledge in tea\
-    and hookah traditions with guests and other members.\
+    Guidance of newcomers and sharing knowledge in teaand hookah traditions with guests\
+    SSand other members.\
     Organizing festival called Dýmky na Kopci.
 
 > ## Hobbies
