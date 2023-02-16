@@ -30,7 +30,7 @@ SQL (Junior), Python (Junior)\
 GIT, Microsoft OfficeAutodesk AutoCAD (Medior)\
 WordpressAdobe Photoshop, Learning new skills\
 Communication, Problem solving\
-Ability to Work in a Team, Presenting in English\
+Ability to Work in a Team, Presenting in English
 
 > ## Projects
 
