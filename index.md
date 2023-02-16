@@ -27,11 +27,11 @@ Student at Czech University of Life Sciences Prague
 
 > ## Skills
 SQL (Junior), Python (Junior)
-GIT, Microsoft Office
-Autodesk AutoCAD (Medior), Wordpress
-Adobe Photoshop, Learning new skills
+GIT, Microsoft OfficeAutodesk AutoCAD (Medior)
+WordpressAdobe Photoshop, Learning new skills
 Communication, Problem solving
 Ability to Work in a Team, Presenting in English
+
 
 > ## Projects
 
