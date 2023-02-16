@@ -10,7 +10,7 @@ danielprochazka097@gmail.com
     | +420 601 570 677
 </div>
 
-<img src="images\Dan CV web.jpg" td align="right" valign="top">
+<img src="images\Dan CV web.jpg" td align="right" style="vertical-align: top;">
 
 > ## About me
 
@@ -59,8 +59,8 @@ English (Highly proficient, C1)
     working in team.
 
 [Klub Čajovna](https://www.facebook.com/KlubCajovna)(Student organization, 2020 – present)\
-    Guidance of newcomers and sharing knowledge in teaand hookah traditions with guests\
-    SSand other members.\
+    Guidance of newcomers and sharing knowledge in tea and hookah traditions with guests\
+    and other members.\
     Organizing festival called Dýmky na Kopci.
 
 > ## Hobbies
