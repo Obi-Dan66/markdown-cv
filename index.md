@@ -10,7 +10,7 @@ danielprochazka097@gmail.com
     | +420 601 570 677
 </div>
 
-<img src="images\Dan CV web.jpg" td align="right" style="vertical-align: top;">
+<img src="images\Dan CV web.jpg" align="right">
 
 > ## About me
 
@@ -27,15 +27,14 @@ Student at Czech University of Life Sciences Prague
 
 > ## Skills
 SQL (Junior), Python (Junior)\
-GIT, Microsoft OfficeAutodesk AutoCAD (Medior)\
-WordpressAdobe Photoshop, Learning new skills\
+GIT, Microsoft Office\
+Autodesk AutoCAD (Medior), Wordpress\
+Adobe Photoshop, Learning new skills\
 Communication, Problem solving\
 Ability to Work in a Team, Presenting in English
 
 > ## Projects
-
-
-
+Currently working on REST API JSON Python microservice in Django framework
 
 > ## Education
 
