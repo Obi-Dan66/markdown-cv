@@ -10,7 +10,7 @@ danielprochazka097@gmail.com
     | +420 601 570 677
 </div>
 
-<img src="images\Dan CV web.jpg" align="right">
+<img src="images\Dan CV web.jpg" align="right" valign="top">
 
 > ## About me
 
@@ -53,12 +53,15 @@ English (Highly proficient, C1)
 	
 > ## Other Organizations
 
-[B.E.S.T. Prague](https://bestprague.cz/)(Student organization, 2019 – present)
-    Creating, organizing and leading projects and events such as EBEC, UnIT, Hackday.
-    Learned variety of soft skills such as presentation, communication, leadership, working in team.
+[B.E.S.T. Prague](https://bestprague.cz/)(Student organization, 2019 – present)\
+    Creating, organizing and leading projects and events\
+    such as EBEC, UnIT, Hackday.\
+    Learned variety of soft skills such as presentation,\
+    communication, leadership, working in team.
 
-[Klub Čajovna](https://www.facebook.com/KlubCajovna)(Student organization, 2020 – present)
-    Guidance of newcomers and sharing knowledge in tea and hookah traditions with guests and other members.
+[Klub Čajovna](https://www.facebook.com/KlubCajovna)(Student organization, 2020 – present)\
+    Guidance of newcomers and sharing knowledge in tea\
+    and hookah traditions with guests and other members.\
     Organizing festival called Dýmky na Kopci.
 
 > ## Hobbies
