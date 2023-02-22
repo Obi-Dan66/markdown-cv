@@ -27,14 +27,15 @@ Student at Czech University of Life Sciences Prague
 
 > ## Skills
 SQL (Junior), Python (Junior)\
-GIT, Microsoft Office\
+GIT, Django\
 Autodesk AutoCAD (Medior), Wordpress\
-Adobe Photoshop, Learning new skills\
+Adobe Photoshop, Markdown\
 Communication, Problem solving\
-Ability to Work in a Team, Presenting in English
+Ability to Work in a Team, Learning new skills\
+Presenting in English
 
 > ## Projects
-Currently working on REST API JSON Python microservice in Django framework
+Currently working on REST API JSON Python microservice in Django framework (coming soon)
 
 > ## Education
 
