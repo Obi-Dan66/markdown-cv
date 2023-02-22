@@ -8,7 +8,7 @@ title: Daniel Procházka's CV
 danielprochazka097@gmail.com
 | <a href="https://www.linkedin.com/in/daniel-procházka-450a5722a/">My LinkedIn page</a>
     | +420 601 570 677
-        <a href="https://github.com/Obi-Dan66">My GitHub profile</a>
+       | <a href="https://github.com/Obi-Dan66">My GitHub profile</a>
 </div>
 
 <img src="images\Dan CV web.jpg" align="right">
