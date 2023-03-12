@@ -36,7 +36,9 @@ Ability to Work in a Team, Learning new skills\
 Presenting in English
 
 > ## Projects
-Currently working on REST API JSON Python microservice in Django framework (coming soon)
+Currently working on REST API JSON Python microservice in Django framework
+
+<a href="https://github.com/Obi-Dan66">Small WebScraper</a>
 
 > ## Education
 
