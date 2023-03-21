@@ -26,6 +26,12 @@ to the success of your company.
 
 Student at Czech University of Life Sciences Prague
 
+Ongoing courses:
+Python Junior
+Pandas Library
+React
+C++ Junior
+
 > ## Skills
 SQL (Junior), Python (Junior)\
 GIT, Django\
@@ -53,7 +59,7 @@ Bachelor (September 2019 – May 2023)
 > ## Languages
 Czech (Native Speaker, C2)
 English (Highly proficient, C1)
-	
+
 > ## Other Organizations
 
 [B.E.S.T. Prague](https://bestprague.cz/)(Student organization, 2019 – present)\
