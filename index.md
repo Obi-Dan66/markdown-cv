@@ -26,10 +26,10 @@ to the success of your company.
 
 Student at Czech University of Life Sciences Prague
 
-Ongoing courses:
-Python Junior
-Pandas Library
-React
+Ongoing courses:\
+Python Junior\
+Pandas Library\
+React\
 C++ Junior
 
 > ## Skills
