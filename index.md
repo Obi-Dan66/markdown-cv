@@ -11,7 +11,7 @@ danielprochazka097@gmail.com
        | <a href="https://github.com/Obi-Dan66">My GitHub profile</a>
 </div>
 
-<img src="images\Dan.jpg" align = "right" style="width:250px;height:257px;>
+<img src="images\Dan.jpg" align="right" width="250" height="257">
 
 > ## About me
 
