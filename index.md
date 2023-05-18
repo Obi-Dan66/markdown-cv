@@ -39,7 +39,7 @@ Ability to Work in a Team, Learning new skills\
 Presenting in English
 
 > ## Courses
-Python - Pandas Library
+Python - Pandas Library\
 React
 
 > ## Projects
