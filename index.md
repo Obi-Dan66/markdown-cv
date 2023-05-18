@@ -18,7 +18,8 @@ danielprochazka097@gmail.com
 I am a highly motivated individual with a strong passion
 for technology and a commitment to continuous learning and growth.
 I am confident in my abilities to bring value to your organization
-with my skills in SQL (Junior), Python (Junior), GIT, and Microsoft Office.
+with my skills. Ideally I aim for frontend development position in React
+followed by HTML and CSS, however I am also positive about SQL and Python.
 I am eager to apply my knowledge to tackle complex problems and contribute
 to the success of your company.
 
@@ -26,25 +27,26 @@ to the success of your company.
 
 Student at Czech University of Life Sciences Prague
 
-Ongoing courses:\
-Python Junior\
-Pandas Library\
-React\
-C++ Junior
-
 > ## Skills
 SQL (Junior), Python (Junior)\
 GIT, Django\
+HTML, CSS\
+Javascript(Junior), React\
 Autodesk AutoCAD (Medior), Wordpress\
 Adobe Photoshop, Markdown\
 Communication, Problem solving\
 Ability to Work in a Team, Learning new skills\
 Presenting in English
 
+> ## Courses
+Python - Pandas Library
+React
+
 > ## Projects
+<a href="https://github.com/Obi-Dan66?tab=repositories">All my repos here</a>
+
 Currently working on REST API JSON Python microservice in Django framework
 
-<a href="https://github.com/Obi-Dan66">Small WebScraper</a>
 
 > ## Education
 
@@ -67,7 +69,7 @@ English (Highly proficient, C1)
     Learned variety of soft skills such as presentation, communication, leadership and\
     working in team.
 
-[Klub Čajovna](https://www.facebook.com/KlubCajovna)(Student organization, 2020 – present)\
+[Klub Čajovna](https://klubcajovna.cz/)(Student organization, 2020 – present)\
     Guidance of newcomers and sharing knowledge in tea and hookah traditions with guests\
     and other members.\
     Organizing festival called Dýmky na Kopci.
