@@ -36,16 +36,19 @@ Autodesk AutoCAD (Medior), Wordpress\
 Adobe Photoshop, Markdown\
 Communication, Problem solving\
 Ability to Work in a Team, Learning new skills\
-Presenting in English
+Presenting in English, Adaptability
 
 > ## Courses
-Python - Pandas Library\
-React
+<a href="https://edu.sh.cvut.cz/kurz-pandas-spracovani-dat-v-python/">Python - Pandas Library</a>\
+<a href="https://edu.sh.cvut.cz/kurz-react/">React</a>\
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview">The Complete 2023 Web Development Bootcamp - Udemy</a> - ongoing
+
 
 > ## Projects
-<a href="https://github.com/Obi-Dan66?tab=repositories">All my repos here</a>
-
-Currently working on REST API JSON Python microservice in Django framework
+<a href="https://github.com/Obi-Dan66?tab=repositories">All my repos here</a>\
+<a href="https://github.com/Obi-Dan66/React-todo-app">React - Todo app</a>\
+<a href="https://github.com/Obi-Dan66/React-calculator-app">React - Scientific calculator</a>\
+<a href="https://github.com/Obi-Dan66/React-quiz">React - Quiz</a> - in progress
 
 
 > ## Education
@@ -56,7 +59,7 @@ Graduation (September 2017 – September 2019)
 
 `September 2019 - now`
 Czech University of Life Sciences Prague, CZ\
-Bachelor (September 2019 – May 2023)
+Bachelor (September 2019 – September 2023)
 
 > ## Languages
 Czech (Native Speaker, C2)
