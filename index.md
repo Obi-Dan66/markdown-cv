@@ -20,12 +20,17 @@ for technology and a commitment to continuous learning and growth.
 I am confident in my abilities to bring value to your organization
 with my skills. Ideally I aim for frontend development position in React
 followed by HTML and CSS, however I am also positive about SQL and Python.
+I can also work with website builders like Wordpress or Wix.
 I am eager to apply my knowledge to tackle complex problems and contribute
 to the success of your company.
 
 > ## Currently
 
-Student at Czech University of Life Sciences Prague
+Web Administration www.prvnioptika.cz (Wix)
+- content update, SEO adjustments, CMS
+- improving Core Web Vitals
+- using analyzing tools like PageSpeed Insights or GTmetrix (CWV)
+- Indexing pages via GSC 
 
 > ## Skills
 SQL (Junior), Python (Junior)\
@@ -33,7 +38,7 @@ GIT, Django\
 HTML, CSS\
 Javascript(Junior), React\
 Autodesk AutoCAD (Medior), Wordpress\
-Adobe Photoshop, Markdown\
+Wix, Adobe Photoshop, Markdown\
 Communication, Problem solving\
 Ability to Work in a Team, Learning new skills\
 Presenting in English, Adaptability
@@ -46,9 +51,7 @@ Presenting in English, Adaptability
 
 > ## Projects
 <a href="https://github.com/Obi-Dan66?tab=repositories">All my repos here</a>\
-<a href="https://github.com/Obi-Dan66/React-todo-app">React - Todo app</a>\
-<a href="https://github.com/Obi-Dan66/React-calculator-app">React - Scientific calculator</a>\
-<a href="https://github.com/Obi-Dan66/React-quiz">React - Quiz</a> - in progress
+<a href="https://github.com/Obi-Dan66/eye-test">Eye-test app - currently developing</a>\
 
 
 > ## Education
@@ -56,10 +59,6 @@ Presenting in English, Adaptability
 `2017-2019`
 Academy of law, pedagogy and business, Ltd., Třebíč, CZ\
 Graduation (September 2017 – September 2019)
-
-`September 2019 - now`
-Czech University of Life Sciences Prague, CZ\
-Bachelor (September 2019 – September 2023)
 
 > ## Languages
 Czech (Native Speaker, C2)
