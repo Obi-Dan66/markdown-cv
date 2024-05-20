@@ -52,7 +52,7 @@ Presenting in English, Adaptability
 
 > ## Projects
 <a href="https://github.com/Obi-Dan66?tab=repositories">All my repos here</a>\
-<a href="https://github.com/Obi-Dan66/eye-test">Eye-test app - currently developing</a>
+<a href="https://github.com/Obi-Dan66/eye-test">Eye-test app</a> - currently developing
 
 
 > ## Education
