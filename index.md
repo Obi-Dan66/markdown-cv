@@ -46,12 +46,12 @@ Presenting in English, Adaptability
 > ## Courses
 <a href="https://edu.sh.cvut.cz/kurz-pandas-spracovani-dat-v-python/">Python - Pandas Library</a>\
 <a href="https://edu.sh.cvut.cz/kurz-react/">React</a>\
-<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview">The Complete 2023 Web Development Bootcamp - Udemy</a> - ongoing
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview">The Complete 2023 Web Development Bootcamp - Udemy</a>
 
 
 > ## Projects
 <a href="https://github.com/Obi-Dan66?tab=repositories">All my repos here</a>\
-<a href="https://github.com/Obi-Dan66/eye-test">Eye-test app - currently developing</a>\
+<a href="https://github.com/Obi-Dan66/eye-test">Eye-test app - currently developing</a>
 
 
 > ## Education
