@@ -27,7 +27,8 @@ to the success of your company.
 > ## Currently
 
 Web Administration www.prvnioptika.cz (Wix)
-- content update, SEO adjustments, CMS
+- content update(Canva), SEO adjustments, CMS
+- custom functionality in Wix Velo (javascript)
 - improving Core Web Vitals
 - using analyzing tools like PageSpeed Insights or GTmetrix (CWV)
 - Indexing pages via GSC 
@@ -39,7 +40,7 @@ HTML, CSS\
 Javascript(Junior), React\
 Autodesk AutoCAD (Medior), Wordpress\
 Wix, Adobe Photoshop, Markdown\
-Communication, Problem solving\
+Canva, Communication, Problem solving\
 Ability to Work in a Team, Learning new skills\
 Presenting in English, Adaptability
 
