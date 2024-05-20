@@ -66,7 +66,7 @@ English (Highly proficient, C1)
 
 > ## Other Organizations
 
-[B.E.S.T. Prague](https://bestprague.cz/)(Student organization, 2019 – present)\
+[B.E.S.T. Prague](https://bestprague.cz/)(Student organization, 2019 – 2023)\
     Creating, organizing and leading projects and events such as EBEC, UnIT, Hackday.\
     Learned variety of soft skills such as presentation, communication, leadership and\
     working in team.
