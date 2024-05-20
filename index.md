@@ -24,25 +24,47 @@ I can also work with website builders like Wordpress or Wix.
 I am eager to apply my knowledge to tackle complex problems and contribute
 to the success of your company.
 
-> ## Currently
+> ## Experience
 
-Web Administration www.prvnioptika.cz (Wix)
-- content update(Canva), SEO adjustments, CMS
-- custom functionality in Wix Velo (javascript)
-- improving Core Web Vitals
-- using analyzing tools like PageSpeed Insights or GTmetrix (CWV)
-- Indexing pages via GSC 
+>### Webmaster
+`August 2023 - May 2024`
+
+Company: Esrte Optik s.r.o.
+
+Web: www.prvnioptika.cz (Wix)
+
+* Content update(Canva), SEO adjustments, CMS
+* Custom functionality in Wix Velo (javascript)
+* Improving Core Web Vitals
+* Using analyzing tools like PageSpeed Insights or GTmetrix (CWV)
+* Indexing pages via GSC 
+
+>### Redactor, Editor, Coypwriter
+`October 2021 - August 2022`
+
+Company: ABCMEDIA NETWORK, S.R.O.
+
+Web: https://udalosti247.cz/ (WordPress)
+
+* News writing 
+* Editing articles 
+* Copywriting and Publishing
 
 > ## Skills
-SQL (Junior), Python (Junior)\
-GIT, Django\
-HTML, CSS\
-Javascript(Junior), React\
-Autodesk AutoCAD (Medior), Wordpress\
-Wix, Adobe Photoshop, Markdown\
-Canva, Communication, Problem solving\
-Ability to Work in a Team, Learning new skills\
-Presenting in English, Adaptability
+
+Technologies (Junior):\
+SQL, Python, GIT, Django, HTML, CSS , Javascript, React, Wordpress,\
+Adobe Photoshop
+
+Technologies (Medior):\
+Autodesk AutoCAD, Canva, Wix
+
+Other tech tools:\
+Page Speed Insights, GTmetrix, ScreamingFrog SEO Spider, GSC 
+
+Other:\
+Communication, Problem solving, Ability to Work in a Team, \
+Learning new skills, Presenting in English, Adaptability
 
 > ## Courses
 <a href="https://edu.sh.cvut.cz/kurz-pandas-spracovani-dat-v-python/">Python - Pandas Library</a>\
